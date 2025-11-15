@@ -6,14 +6,14 @@ I'm a passionate **self-taught developer** transitioning from a **QA background*
 
 - 🏢 Previously worked at **Infosys** and currently at **Infor** as a **Senior System Engineer / QA Analyst**  
 - 🧪 Specialized in **automation testing** (Selenium, TestNG, JUnit) and **manual testing**  
-- 💡 Currently learning **full-stack development (MERN stack)** through **Scaler Academy**  
+- 💡 Currently learning **Backend development ** through **Scaler Academy**  
 - 🛠️ Actively building **real-world projects** to sharpen development skills  
 - 🎯 Goal: Become a **skilled software developer** contributing to impactful tech solutions  
 
 ## 🚀 Tech Stack
 
 - **Languages:** JavaScript, Java, HTML, CSS  
-- **Frameworks & Tools:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Three.js, Framer Motion  
+- **Frameworks & Tools:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Springboot
 - **Testing Tools:** Selenium WebDriver, TestNG, JUnit, Postman  
 - **Others:** Git, GitHub, VS Code, Agile & Scrum, Vercel  
 
@@ -22,7 +22,7 @@ I'm a passionate **self-taught developer** transitioning from a **QA background*
 - Advanced **Data Structures & Algorithms** (Scaler)  
 - **System Design Fundamentals**  
 - Building **scalable web applications**  
-- Exploring **Cybersecurity basics**  
+- Low Level Design
 
 ## 📫 Let's Connect
 
