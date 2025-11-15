@@ -1,32 +1,34 @@
 # 👋 Hi, I'm Ganesh K
 
-I'm a passionate **self-taught developer** transitioning from a **QA background**, with hands-on experience in both **manual and automation testing**.
+I'm a passionate **self-taught developer** transitioning from a **QA background**, with hands-on experience in both **manual and automation testing** and now building **full-stack applications**.
 
 ## 👨‍💻 About Me
 
-- 🏢 Previously worked at **Infosys** and Currently working at **Infor** as a Quality Assurance Analyst in Development  
-- 🧪 Specialized in **automation (Selenium, TestNG)** and **manual testing**  
+- 🏢 Previously worked at **Infosys** and currently at **Infor** as a **Senior System Engineer / QA Analyst**  
+- 🧪 Specialized in **automation testing** (Selenium, TestNG, JUnit) and **manual testing**  
 - 💡 Currently learning **full-stack development (MERN stack)** through **Scaler Academy**  
-- 🛠️ Actively building real-world projects to sharpen my development skills  
-- 🎯 My goal is to become a **skilled software developer** and contribute to impactful tech solutions
+- 🛠️ Actively building **real-world projects** to sharpen development skills  
+- 🎯 Goal: Become a **skilled software developer** contributing to impactful tech solutions  
 
 ## 🚀 Tech Stack
 
 - **Languages:** JavaScript, Java, HTML, CSS  
-- **Frameworks & Tools:** React.js, Node.js, Express.js, MongoDB, Selenium, Git, Postman  
-- **Testing Tools:** Selenium WebDriver, TestNG, JUnit  
-- **Others:** GitHub, VS Code, Agile & Scrum
+- **Frameworks & Tools:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Three.js, Framer Motion  
+- **Testing Tools:** Selenium WebDriver, TestNG, JUnit, Postman  
+- **Others:** Git, GitHub, VS Code, Agile & Scrum, Vercel  
 
 ## 📚 Currently Learning
 
-- Advanced DSA (Scaler)
-- System Design Fundamentals
-- Building scalable web applications
+- Advanced **Data Structures & Algorithms** (Scaler)  
+- **System Design Fundamentals**  
+- Building **scalable web applications**  
+- Exploring **Cybersecurity basics**  
 
 ## 📫 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/ganesh-k-2233a61b0/
-- Portfolio: *Coming Soon*
+- **LinkedIn:** [Ganesh K](https://www.linkedin.com/in/ganesh-k-2233a61b0/)  
+- **Portfolio:** [https://ganesh-portfolio-pi.vercel.app/](https://ganesh-portfolio-pi.vercel.app/)  
+- **GitHub:** [https://github.com/ganesh883](https://github.com/ganesh883)  
 
 ---
 
