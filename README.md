@@ -1,3 +1,4 @@
+```bash
 ====================================================
 > whoami
 Ganesh K
@@ -8,17 +9,17 @@ Backend-Focused Software Engineer
 > background
 Started career in automation engineering.
 Worked extensively with backend services, APIs, and system workflows.
-Transitioning fully into backend & full-stack development.
+Now transitioning fully into backend & full-stack development.
 
 > experience
 - Infosys (Former)
 - Infor (Current) - Software Engineer
 
 > core_focus
-Designing scalable backend systems
-Building RESTful APIs
-Writing clean, production-ready code
-Improving system reliability
+- Designing scalable backend systems
+- Building RESTful APIs
+- Writing clean, production-ready code
+- Improving system reliability
 
 > tech_stack
 
@@ -53,7 +54,7 @@ Improving system reliability
 
 > currently_learning
 - Advanced Data Structures & Algorithms
-- System Design Fundamentals
+- System Design
 - Low-Level Design
 - Scalable Architecture Patterns
 
@@ -69,3 +70,4 @@ GitHub    : github.com/ganesh883
 ====================================================
 System.out.println("Always learning. Always building.");
 ====================================================
+```
