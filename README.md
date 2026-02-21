@@ -8,7 +8,7 @@ I’m a software engineer with 3+ years of industry experience, currently buildi
 
 ## 👨‍💻 Professional Experience
 
-- 🏢 Previously at **Infosys**
+- 🏢 Previously at **Infosys** as a **System Engineer**
 - 💼 Currently at **Infor** as a **Software Engineer**
 - 🔧 Experience working on backend-heavy systems, APIs, and automation frameworks
 - 🧠 Strong exposure to production debugging, CI/CD, and system workflows  
