@@ -1,62 +1,71 @@
-👋 Hi, I'm Ganesh K
+====================================================
+> whoami
+Ganesh K
 
-🚀 Backend-Focused Software Engineer | Java | MERN | System Design Enthusiast
+> role
+Backend-Focused Software Engineer
 
-I’m a software engineer with 3+ years of industry experience, currently building scalable backend systems and full-stack applications. My journey began in automation engineering, where I worked closely with backend services and APIs — which naturally transitioned me into full-fledged development.
+> background
+Started career in automation engineering.
+Worked extensively with backend services, APIs, and system workflows.
+Transitioning fully into backend & full-stack development.
 
-👨‍💻 Professional Experience
+> experience
+- Infosys (Former)
+- Infor (Current) - Software Engineer
 
-🏢 Previously at Infosys as a Systen Engineer
-💼 Currently at Infor as a Software Engineer
-🔧 Experience working on backend-heavy systems, APIs, and automation frameworks
-🧠 Strong exposure to production debugging, CI/CD, and system workflows
+> core_focus
+Designing scalable backend systems
+Building RESTful APIs
+Writing clean, production-ready code
+Improving system reliability
 
-While my official role involved automation engineering, my day-to-day work has been deeply technical — writing backend logic, working with APIs, and improving system reliability.
+> tech_stack
 
-🛠 Tech Stack
+[Backend]
+- Java
+- Spring Boot
+- Node.js
+- Express.js
+- MongoDB
+- SQL
 
-💻 Backend & Full Stack
+[Frontend]
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
 
-Java, Spring Boot
-Node.js, Express.js
-MongoDB, SQL
-RESTful API Development
+[Engineering & Automation]
+- Selenium WebDriver
+- TestNG
+- JUnit
+- Postman
+- CI/CD Integration
 
-🎨 Frontend
+[Tools]
+- Git
+- GitHub
+- VS Code
+- Vercel
+- Agile / Scrum
 
-React.js
-JavaScript (ES6+)
-HTML5, CSS3
-Tailwind CSS
+> currently_learning
+- Advanced Data Structures & Algorithms
+- System Design Fundamentals
+- Low-Level Design
+- Scalable Architecture Patterns
 
-🧪 Engineering & Automation
+> career_goal
+Become a strong Backend / Full-Stack Engineer
+Building impactful and scalable software systems.
 
-Selenium WebDriver
-TestNG, JUnit
-API Testing (Postman)
-Framework Design & CI/CD Integration
+> connect
+LinkedIn  : linkedin.com/in/ganesh-k-2233a61b0
+Portfolio : ganesh-portfolio-pi.vercel.app
+GitHub    : github.com/ganesh883
 
-⚙️ Tools & Practices
-
-Git & GitHub
-VS Code
-Agile & Scrum
-Vercel Deployment
-
-📚 Currently Leveling Up
-
-Advanced Data Structures & Algorithms
-System Design Fundamentals
-Low-Level Design
-Building scalable backend architectures
-Writing production-grade clean code
-
-🎯 Career Objective
-
-To contribute as a Backend / Full-Stack Software Engineer in product-focused teams, building scalable systems and solving real-world engineering challenges.
-
-🌐 Let's Connect
-
-🔗 LinkedIn: https://www.linkedin.com/in/ganesh-k-2233a61b0/
-💼 Portfolio: https://ganesh-portfolio-pi.vercel.app/
-🧑‍💻 GitHub: https://github.com/ganesh883
+====================================================
+System.out.println("Always learning. Always building.");
+====================================================
