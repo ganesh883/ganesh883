@@ -1,35 +1,62 @@
-# 👋 Hi, I'm Ganesh K
+👋 Hi, I'm Ganesh K
 
-I'm a passionate **self-taught developer** transitioning from a **QA background**, with hands-on experience in both **manual and automation testing** and now building **full-stack applications**.
+🚀 Backend-Focused Software Engineer | Java | MERN | System Design Enthusiast
 
-## 👨‍💻 About Me
+I’m a software engineer with 3+ years of industry experience, currently building scalable backend systems and full-stack applications. My journey began in automation engineering, where I worked closely with backend services and APIs — which naturally transitioned me into full-fledged development.
 
-- 🏢 Previously worked at **Infosys** and currently at **Infor** as a **Senior System Engineer / QA Analyst**  
-- 🧪 Specialized in **automation testing** (Selenium, TestNG, JUnit) and **manual testing**  
-- 💡 Currently learning **Backend development ** through **Scaler Academy**  
-- 🛠️ Actively building **real-world projects** to sharpen development skills  
-- 🎯 Goal: Become a **skilled software developer** contributing to impactful tech solutions  
+👨‍💻 Professional Experience
 
-## 🚀 Tech Stack
+🏢 Previously at Infosys as a Systen Engineer
+💼 Currently at Infor as a Software Engineer
+🔧 Experience working on backend-heavy systems, APIs, and automation frameworks
+🧠 Strong exposure to production debugging, CI/CD, and system workflows
 
-- **Languages:** JavaScript, Java, HTML, CSS  
-- **Frameworks & Tools:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Springboot
-- **Testing Tools:** Selenium WebDriver, TestNG, JUnit, Postman  
-- **Others:** Git, GitHub, VS Code, Agile & Scrum, Vercel  
+While my official role involved automation engineering, my day-to-day work has been deeply technical — writing backend logic, working with APIs, and improving system reliability.
 
-## 📚 Currently Learning
+🛠 Tech Stack
 
-- Advanced **Data Structures & Algorithms** (Scaler)  
-- **System Design Fundamentals**  
-- Building **scalable web applications**  
-- Low Level Design
+💻 Backend & Full Stack
 
-## 📫 Let's Connect
+Java, Spring Boot
+Node.js, Express.js
+MongoDB, SQL
+RESTful API Development
 
-- **LinkedIn:** [Ganesh K](https://www.linkedin.com/in/ganesh-k-2233a61b0/)  
-- **Portfolio:** [https://ganesh-portfolio-pi.vercel.app/](https://ganesh-portfolio-pi.vercel.app/)  
-- **GitHub:** [https://github.com/ganesh883](https://github.com/ganesh883)  
+🎨 Frontend
 
----
+React.js
+JavaScript (ES6+)
+HTML5, CSS3
+Tailwind CSS
 
-Thanks for visiting my profile! 😊
+🧪 Engineering & Automation
+
+Selenium WebDriver
+TestNG, JUnit
+API Testing (Postman)
+Framework Design & CI/CD Integration
+
+⚙️ Tools & Practices
+
+Git & GitHub
+VS Code
+Agile & Scrum
+Vercel Deployment
+
+📚 Currently Leveling Up
+
+Advanced Data Structures & Algorithms
+System Design Fundamentals
+Low-Level Design
+Building scalable backend architectures
+Writing production-grade clean code
+
+🎯 Career Objective
+
+To contribute as a Backend / Full-Stack Software Engineer in product-focused teams, building scalable systems and solving real-world engineering challenges.
+
+🌐 Let's Connect
+
+🔗 LinkedIn: https://www.linkedin.com/in/ganesh-k-2233a61b0/
+💼 Portfolio: https://ganesh-portfolio-pi.vercel.app/
+🧑‍💻 GitHub: https://github.com/ganesh883
